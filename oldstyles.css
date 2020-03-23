@@ -1,0 +1,71 @@
+body{
+background-color: lightcyan;
+}
+
+hr{
+  /* border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 4%; */
+  background-color: yellow;
+  border-style: none;
+  height: 3px;
+  width: 50%;
+}
+
+img{
+  height: 350px;
+  width: 350px;
+  border-radius: 50px;
+}
+
+img:hover {
+  border-radius: 100%;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+.third-one {
+  background-color: pink;
+  color: blue;
+  font-size: 80px;
+}
+
+
+#inner:hover {
+  background-color: pink;
+}
+
+#inner {
+  background-color: brown;
+}
+
+
+#loi:hover {
+  background-color: grey;
+  border-style: none;
+  height: 3px;
+}
+
+.con {
+  text-align: center;
+  color: #ff7315;
+  font-family: 'Baloo Da 2', cursive;
+}
+
+
+a {
+  text-decoration: none;
+  color: #231903;
+}
